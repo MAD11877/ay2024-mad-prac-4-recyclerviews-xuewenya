@@ -58,7 +58,7 @@
 
             <androidx.fragment.app.FragmentContainerView
                 android:id="@+id/fragmentContainerView2"
-                android:name="sg.edu.np.mad.madpractical4.Group1Fragment"
+                android:name="sg.edu.np.mad.madpractical.Group1Fragment"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content" />
         </LinearLayout>
